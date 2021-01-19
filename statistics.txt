@@ -1,0 +1,19 @@
+
+ROUND ROBIN SIMULATION: 
+***************************************
+
+Time Quantum: 50
+
+Dispatch Overhead : 0
+
+Maximum queue length: 4
+
+Average waiting time: 60201732
+
+Average turn around time: 81441
+
+Average queue length: 2.54214
+
+Overall simulation time: 770920
+
+total queue length 4
